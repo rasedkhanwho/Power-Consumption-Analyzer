@@ -1,0 +1,18 @@
+Power Consumption Analyzer 
+
+Enter appliance name (or 'done' to finish): Fan
+Enter power of Fan in watts: 75
+Enter hours per day you use Fan: 10
+
+Enter appliance name (or 'done' to finish): Light
+Enter power of Light in watts: 15
+Enter hours per day you use Light: 6
+
+Enter appliance name (or 'done' to finish): done
+
+Appliance Report:
+Fan: 22.5 kWh/month
+Light: 2.7 kWh/month
+
+Total Energy: 25.20 kWh/month
+Estimated Monthly Bill: 176.40 BDT
