@@ -4,19 +4,26 @@ A simple and beginner-friendly Python project that calculates energy usage and e
 
 Features:
 
->Add multiple electrical appliances by name.
->Input each appliance's power rating (in watts) and daily usage hours.
->Automatically calculates monthly energy consumption in kilowatt-hours (kWh).
->Estimates electricity bills based on local electricity rate.
->Presents a clean appliance-by-appliance energy report.
+1. Add multiple electrical appliances by name.
+2. Input each appliance's power rating (in watts) and daily usage hours.
+3. Automatically calculates monthly energy consumption in kilowatt-hours (kWh).
+4. Estimates electricity bills based on local electricity rate.
+5. Presents a clean appliance-by-appliance energy report.
 
 Technologies Used:
 
->Python 3
->Standard Python libraries (no external libraries required)
+1. Python 3
+2. Standard Python libraries (no external libraries required)
 
 How to Run
->Make sure you have Python 3 installed.
->Download or clone this repository.
->Open terminal/cmd in the project directory.
->Run the file: python analyzer.py
+1. Make sure you have Python 3 installed.
+2. Download or clone this repository.
+3. Open terminal/cmd in the project directory.
+4. Run the file: python analyzer.py
+
+
+Contributing
+Pull requests are welcome! You can suggest improvements or help make a GUI version for this tool.
+
+Author-
+Rased Khan
